@@ -5,3 +5,4 @@ mkdir → create folder
 rm → delete file  
 cp → copy file  
 mv → move file  
+touch → create file
